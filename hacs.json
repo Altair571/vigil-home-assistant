@@ -1,0 +1,8 @@
+{
+  "name": "Vigil",
+  "zip_release": true,
+  "filename": "vigil.zip",
+  "hide_default_branch": true,
+  "render_readme": true,
+  "homeassistant": "2025.1.0"
+}
